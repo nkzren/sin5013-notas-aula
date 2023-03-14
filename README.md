@@ -43,3 +43,7 @@ Reprovado -> MF < 5.0
 
 Frequencia mínima: 75%
 
+## Bibliografia
+
+Nos slides. *Introduction to Algorithms* (Livro do Cormen) é o mais recomendado para acompanhar a disciplina
+
